@@ -11,6 +11,7 @@ import org.springframework.stereotype.Component;
 @Component
 @ConfigurationProperties(prefix = "connection")
 @EnableConfigurationProperties(Connection.class)
+
 public class Connection {
 
     private String username;
