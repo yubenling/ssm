@@ -13,6 +13,7 @@ import org.springframework.stereotype.Component;
 @EnableConfigurationProperties(Connection.class)
 public class Connection {
 
+
     private String username;
     private String password;
 
