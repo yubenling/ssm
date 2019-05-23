@@ -8,7 +8,8 @@ import javax.persistence.Id;
 /*
  *@create yubenling
  *@date  2019/5/19
- *@desc  */
+ *@desc jpauser
+ * */
 @Entity(name="userinfo")
 public class JpaUser {
     @Id
