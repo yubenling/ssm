@@ -9,13 +9,14 @@ import org.springframework.stereotype.Component;
  *@date  2019/5/20
  *@desc
  * */
-
-
 @Component
 @ConfigurationProperties(prefix = "connection")
 @EnableConfigurationProperties(Connection.class)
 /**
- * 修改冲突
+ * yubenling submit
+ */
+/**
+ * 修改冲突............
  */
 
 public class Connection {
