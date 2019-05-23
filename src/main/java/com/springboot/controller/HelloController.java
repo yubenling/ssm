@@ -12,11 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
  * 提交Controller
  * HelloController
  */
-/***
- *
- *
- *
- */
+
 @RestController
 public class HelloController {
 

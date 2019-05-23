@@ -15,11 +15,6 @@ import org.springframework.stereotype.Component;
 /**
  * yubenling submit
  */
-/**
- * 修改冲突
- *
- *
- */
 
 public class Connection {
 
