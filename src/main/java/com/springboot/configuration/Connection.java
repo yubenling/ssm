@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 /*
  *@create yubenling
  *@date  2019/5/20
- *@desc  使用本领1修改
+ *@desc
  * */
 @Component
 @ConfigurationProperties(prefix = "connection")
