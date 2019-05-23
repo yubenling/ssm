@@ -7,12 +7,14 @@ import org.springframework.stereotype.Component;
 /*
  *@create yubenling
  *@date  2019/5/20
- *@desc  */
+ *@desc  使用本领1修改
+ * */
 @Component
 @ConfigurationProperties(prefix = "connection")
 @EnableConfigurationProperties(Connection.class)
 
 public class Connection {
+
 
     private String username;
     private String password;
