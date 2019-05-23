@@ -9,6 +9,8 @@ import org.springframework.stereotype.Component;
  *@date  2019/5/20
  *@desc
  * */
+
+
 @Component
 @ConfigurationProperties(prefix = "connection")
 @EnableConfigurationProperties(Connection.class)
