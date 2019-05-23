@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
  */
 /***
  * 修改benling1
+ * 修改yubenling
  */
 @RestController
 public class HelloController {
@@ -24,7 +25,8 @@ public class HelloController {
 
 
     @RequestMapping("hello")
-    public String testHellow(){
+    public String testHellowwww(){
+
         return  "hellow";
     }
 }
