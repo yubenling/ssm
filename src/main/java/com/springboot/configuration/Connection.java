@@ -14,6 +14,9 @@ import org.springframework.stereotype.Component;
 @Component
 @ConfigurationProperties(prefix = "connection")
 @EnableConfigurationProperties(Connection.class)
+/**
+ * 修改冲突
+ */
 
 public class Connection {
 
