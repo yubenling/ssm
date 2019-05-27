@@ -6,6 +6,9 @@ package com.springboot.domain;
  *@desc  */
 public class Role {
 
+
+
+
     private String name;
     private String rid;
 
